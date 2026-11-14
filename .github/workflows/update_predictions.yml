@@ -1,0 +1,55 @@
+name: LimSoccer Daily & Weekly Automation
+
+on:
+  schedule:
+    # Runs automatically every day at 04:00 UTC (06:00 AM SAST)
+    - cron: '0 4 * * *'
+  # Allows you to click "Run workflow" manually anytime to test
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-and-notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Prediction & ROI Grading Engine
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python src/engine.py
+
+      - name: Send WhatsApp Daily/Weekly Alerts
+        env:
+          GOOGLE_SHEET_WEBAPP_URL: ${{ secrets.GOOGLE_SHEET_WEBAPP_URL }}
+          GOOGLE_SHEET_SECRET: ${{ secrets.GOOGLE_SHEET_SECRET }}
+          WHATSAPP_PROVIDER: ${{ secrets.WHATSAPP_PROVIDER }}
+          META_WA_TOKEN: ${{ secrets.META_WA_TOKEN }}
+          META_WA_PHONE_ID: ${{ secrets.META_WA_PHONE_ID }}
+          CALLMEBOT_API_KEY: ${{ secrets.CALLMEBOT_API_KEY }}
+        run: |
+          python src/notify_whatsapp.py
+
+      - name: Commit & Push Updated Predictions JSON
+        run: |
+          git config --local user.email "limsoccer-bot@://github.com"
+          git config --local user.name "LimSoccer Automation Bot"
+          git add data/predictions.json data/history.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update daily soccer predictions & ROI stats"
+          git push
