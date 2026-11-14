@@ -1,0 +1,44 @@
+{
+  "stats": {
+    "total_picks": 24,
+    "wins": 17,
+    "losses": 7,
+    "win_rate": 70.8,
+    "roi_units": 6.45
+  },
+  "graded_matches": [
+    {
+      "id": "8991",
+      "date": "2026-11-13",
+      "league": "AFCON Qualifiers",
+      "match": "South Africa vs Kenya",
+      "pick": "South Africa Win",
+      "odds": 1.65,
+      "actual_score": "2-0",
+      "status": "WON",
+      "profit_units": 0.65
+    },
+    {
+      "id": "8992",
+      "date": "2026-11-13",
+      "league": "UEFA Nations League",
+      "match": "Serbia vs Germany",
+      "pick": "Germany Win",
+      "odds": 1.72,
+      "actual_score": "0-2",
+      "status": "WON",
+      "profit_units": 0.72
+    },
+    {
+      "id": "8993",
+      "date": "2026-11-13",
+      "league": "UEFA Nations League",
+      "match": "Netherlands vs Greece",
+      "pick": "Netherlands Win",
+      "odds": 1.55,
+      "actual_score": "2-0",
+      "status": "WON",
+      "profit_units": 0.55
+    }
+  ]
+}
