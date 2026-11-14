@@ -1,0 +1,119 @@
+{
+  "updated_at": "2026-11-14T06:00:00Z",
+  "today_date": "2026-11-14",
+  "total_matches": 4,
+  "matches": [
+    {
+      "id": 9001,
+      "home": "Arsenal",
+      "away": "Chelsea",
+      "league": "Premier League",
+      "date": "2026-11-14",
+      "kickoff_utc": "2026-11-14T16:30:00Z",
+      "is_today": true,
+      "stats": {
+        "home_win_prob": 63.4,
+        "draw_prob": 21.1,
+        "away_win_prob": 15.5,
+        "over_25_prob": 58.2,
+        "btts_prob": 52.8,
+        "projected_score": "2-0",
+        "xg_home": 1.98,
+        "xg_away": 0.94
+      },
+      "consensus": {
+        "pick": "Arsenal Win",
+        "confidence": 63.4,
+        "risk_tier": "Safe",
+        "fair_odds": 1.58,
+        "market_odds": 1.67,
+        "is_value_bet": true,
+        "ai_preview": "Poisson xG models project 1.98 vs 0.94 goals in Arsenal's favor at home. Strong defensive metrics make Arsenal Win a high-confidence Safe tier selection with positive market value."
+      }
+    },
+    {
+      "id": 9002,
+      "home": "Real Madrid",
+      "away": "Atletico Madrid",
+      "league": "La Liga",
+      "date": "2026-11-14",
+      "kickoff_utc": "2026-11-14T19:00:00Z",
+      "is_today": true,
+      "stats": {
+        "home_win_prob": 54.8,
+        "draw_prob": 24.5,
+        "away_win_prob": 20.7,
+        "over_25_prob": 54.1,
+        "btts_prob": 56.4,
+        "projected_score": "2-1",
+        "xg_home": 1.76,
+        "xg_away": 1.08
+      },
+      "consensus": {
+        "pick": "Real Madrid Win",
+        "confidence": 54.8,
+        "risk_tier": "Balanced",
+        "fair_odds": 1.82,
+        "market_odds": 1.75,
+        "is_value_bet": false,
+        "ai_preview": "Real Madrid hold a clear attacking edge at the Bernabeu with a 1.76 xG rating. Expect a competitive derby where home quality secures a narrow 2-1 victory."
+      }
+    },
+    {
+      "id": 9003,
+      "home": "Inter",
+      "away": "AC Milan",
+      "league": "Serie A",
+      "date": "2026-11-15",
+      "kickoff_utc": "2026-11-15T18:45:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 52.1,
+        "draw_prob": 26.2,
+        "away_win_prob": 21.7,
+        "over_25_prob": 55.9,
+        "btts_prob": 58.1,
+        "projected_score": "2-1",
+        "xg_home": 1.71,
+        "xg_away": 1.12
+      },
+      "consensus": {
+        "pick": "Inter Win",
+        "confidence": 52.1,
+        "risk_tier": "Balanced",
+        "fair_odds": 1.92,
+        "market_odds": 1.95,
+        "is_value_bet": true,
+        "ai_preview": "Inter's structured midfield control gives them a 52.1% win probability in the Milan derby. Both teams show strong scoring metrics, pointing toward an open match."
+      }
+    },
+    {
+      "id": 9004,
+      "home": "Bayern Munich",
+      "away": "Dortmund",
+      "league": "Bundesliga",
+      "date": "2026-11-16",
+      "kickoff_utc": "2026-11-16T16:30:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 66.2,
+        "draw_prob": 18.4,
+        "away_win_prob": 15.4,
+        "over_25_prob": 71.5,
+        "btts_prob": 64.0,
+        "projected_score": "3-1",
+        "xg_home": 2.34,
+        "xg_away": 1.15
+      },
+      "consensus": {
+        "pick": "Bayern Munich Win",
+        "confidence": 66.2,
+        "risk_tier": "Safe",
+        "fair_odds": 1.51,
+        "market_odds": 1.60,
+        "is_value_bet": true,
+        "ai_preview": "Bayern Munich generate an imposing 2.34 expected goals at home against Dortmund's high defensive line. High tempo metrics strongly favor a multi-goal home win."
+      }
+    }
+  ]
+}
