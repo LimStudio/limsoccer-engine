@@ -244,13 +244,14 @@ def get_fallback_fixtures():
 {"id": 9004, "utcDate": f"{tomorrow}T17:30:00Z", "competition": {"code": "BL1", "name": "Bundesliga"}, "homeTeam": {"name": "Bayern Munich"}, "awayTeam": {"name": "Dortmund"}}
 ]
 def run_pipeline():
-ensure_data_files()
-grade_yesterday_predictions()
-today = datetime.date.today()
-week_end = today + datetime.timedelta(days=7)
-raw_matches = fetch_matches(today.isoformat(), week_end.isoformat(), status="SCHEDULED")
-if not raw_matches:
-raw_matches = get_fallback_fixtures()
+    ensure_data_files()
+    grade_yesterday_predictions()
+    today = datetime.date.today()
+    week_end = today + datetime.timedelta(days=7)
+    raw_matches = fetch_matches(today.isoformat(), week_end.isoformat(), status="SCHEDULED")
+    if not raw_matches:
+        raw_matches = get_fallback_fixtures()
+    # ... rest of your indented code ...
 processed_matches = []
 for m in raw_matches[:40]:
 home = m["homeTeam"]["name"]
