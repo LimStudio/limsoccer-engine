@@ -251,32 +251,27 @@ def run_pipeline():
     raw_matches = fetch_matches(today.isoformat(), week_end.isoformat(), status="SCHEDULED")
     if not raw_matches:
         raw_matches = get_fallback_fixtures()
-    # ... rest of your indented code ...
-processed_matches = []
-for m in raw_matches[:40]:
-home = m["homeTeam"]["name"]
-away = m["awayTeam"]["name"]
-league = m["competition"]["name"]
-utc_date = m["utcDate"]
-match_date = utc_date.split("T")[0]
-h_att, h_def, a_att, a_def = derive_team_strengths(home, away)
-stats = calculate_poisson_model(h_att, h_def, a_att, a_def)
-info = {"id": m["id"], "home": home, "away": away, "league": league, "date": match_date, "kickoff_utc": utc_date}
-consensus = get_gemini_consensus(info, stats)
-processed_matches.append({
-**info,
-"is_today": (match_date == today.isoformat()),
-"stats": stats,
-"consensus": consensus
-})
-output = {
-"updated_at": datetime.datetime.utcnow().isoformat() + "Z",
-"today_date": today.isoformat(),
-"total_matches": len(processed_matches),
-"matches": processed_matches
-}
-with open(PREDICTIONS_FILE, "w") as f:
-json.dump(output, f, indent=2)
-print(f"Successfully generated {len(processed_matches)} predictions.")
+    processed_matches = []
+    for m in raw_matches[:40]:
+        home = m["homeTeam"]["name"]
+        away = m["awayTeam"]["name"]
+        league = m["competition"]["name"]
+        utc_date = m["utcDate"]
+        match_date = utc_date.split("T")[0]
+        h_att, h_def, a_att, a_def = derive_team_strengths(home, away)
+        stats = calculate_poisson_model(h_att, h_def, a_att, a_def)
+        info = {"id": m["id"], "home": home, "away": away, "league": league, "date": match_date, "kickoff_utc": utc_date}
+        consensus = get_gemini_consensus(info, stats)
+        processed_matches.append({ **info, "is_today": (match_date == today.isoformat()), "stats": stats, "consensus": consensus })
+    output = {
+        "updated_at": datetime.datetime.utcnow().isoformat() + "Z",
+        "today_date": today.isoformat(),
+        "total_matches": len(processed_matches),
+        "matches": processed_matches
+    }
+    with open(PREDICTIONS_FILE, "w") as f:
+        json.dump(output, f, indent=2)
+    print(f"Successfully generated {len(processed_matches)} predictions.")
+
 if __name__ == "__main__":
-run_pipeline()
+    run_pipeline()
