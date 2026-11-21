@@ -1,12 +1,45 @@
 {
   "stats": {
-    "total_picks": 24,
-    "wins": 17,
-    "losses": 7,
-    "win_rate": 70.8,
-    "roi_units": 6.45
+    "total_picks": 27,
+    "wins": 18,
+    "losses": 9,
+    "win_rate": 66.7,
+    "roi_units": 5.49
   },
   "graded_matches": [
+    {
+      "id": "564748",
+      "date": "2026-11-20",
+      "league": "Primera Division",
+      "match": "Athletic Club vs RCD Espanyol de Barcelona",
+      "pick": "Athletic Club Win",
+      "odds": 2.04,
+      "actual_score": "0-1",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "559622",
+      "date": "2026-11-20",
+      "league": "Ligue 1",
+      "match": "ES Troyes AC vs Le Havre AC",
+      "pick": "ES Troyes AC Win",
+      "odds": 2.04,
+      "actual_score": "3-1",
+      "status": "WON",
+      "profit_units": 1.04
+    },
+    {
+      "id": "565859",
+      "date": "2026-11-20",
+      "league": "Bundesliga",
+      "match": "FC Bayern M\u00fcnchen vs 1. FC K\u00f6ln",
+      "pick": "FC Bayern M\u00fcnchen Win",
+      "odds": 1.64,
+      "actual_score": "1-1",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
     {
       "id": "8991",
       "date": "2026-11-13",
