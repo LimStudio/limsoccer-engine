@@ -1,12 +1,188 @@
 {
   "stats": {
-    "total_picks": 53,
-    "wins": 29,
-    "losses": 24,
-    "win_rate": 54.7,
-    "roi_units": 1.37
+    "total_picks": 69,
+    "wins": 39,
+    "losses": 30,
+    "win_rate": 56.5,
+    "roi_units": 4.45
   },
   "graded_matches": [
+    {
+      "id": "564753",
+      "date": "2026-11-22",
+      "league": "Primera Division",
+      "match": "Getafe CF vs Club Atl\u00e9tico de Madrid",
+      "pick": "Getafe CF Win",
+      "odds": 2.04,
+      "actual_score": "0-3",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "558520",
+      "date": "2026-11-22",
+      "league": "Serie A",
+      "match": "Atalanta BC vs FC Internazionale Milano",
+      "pick": "FC Internazionale Milano Win",
+      "odds": 2.52,
+      "actual_score": "4-4",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "559629",
+      "date": "2026-11-22",
+      "league": "Ligue 1",
+      "match": "Olympique de Marseille vs Le Mans FC",
+      "pick": "Olympique de Marseille Win",
+      "odds": 2.04,
+      "actual_score": "2-3",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "564752",
+      "date": "2026-11-22",
+      "league": "Primera Division",
+      "match": "CA Osasuna vs M\u00e1laga CF",
+      "pick": "CA Osasuna Win",
+      "odds": 2.04,
+      "actual_score": "1-0",
+      "status": "WON",
+      "profit_units": 1.04
+    },
+    {
+      "id": "558523",
+      "date": "2026-11-22",
+      "league": "Serie A",
+      "match": "AC Milan vs Frosinone Calcio",
+      "pick": "AC Milan Win",
+      "odds": 1.78,
+      "actual_score": "5-1",
+      "status": "WON",
+      "profit_units": 0.78
+    },
+    {
+      "id": "560645",
+      "date": "2026-11-22",
+      "league": "Premier League",
+      "match": "Liverpool FC vs Manchester United FC",
+      "pick": "Liverpool FC Win",
+      "odds": 1.64,
+      "actual_score": "4-0",
+      "status": "WON",
+      "profit_units": 0.64
+    },
+    {
+      "id": "565863",
+      "date": "2026-11-22",
+      "league": "Bundesliga",
+      "match": "SV Werder Bremen vs Hamburger SV",
+      "pick": "SV Werder Bremen Win",
+      "odds": 2.04,
+      "actual_score": "4-0",
+      "status": "WON",
+      "profit_units": 1.04
+    },
+    {
+      "id": "559626",
+      "date": "2026-11-22",
+      "league": "Ligue 1",
+      "match": "FC Lorient vs Stade Rennais FC 1901",
+      "pick": "FC Lorient Win",
+      "odds": 2.04,
+      "actual_score": "1-1",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "564750",
+      "date": "2026-11-22",
+      "league": "Primera Division",
+      "match": "Real Racing Club de Santander vs Real Sociedad de F\u00fatbol",
+      "pick": "Real Racing Club de Santander Win",
+      "odds": 2.04,
+      "actual_score": "3-2",
+      "status": "WON",
+      "profit_units": 1.04
+    },
+    {
+      "id": "565864",
+      "date": "2026-11-22",
+      "league": "Bundesliga",
+      "match": "FC Augsburg vs 1. FSV Mainz 05",
+      "pick": "FC Augsburg Win",
+      "odds": 2.04,
+      "actual_score": "3-1",
+      "status": "WON",
+      "profit_units": 1.04
+    },
+    {
+      "id": "558522",
+      "date": "2026-11-22",
+      "league": "Serie A",
+      "match": "Bologna FC 1909 vs Udinese Calcio",
+      "pick": "Bologna FC 1909 Win",
+      "odds": 2.04,
+      "actual_score": "1-1",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "558524",
+      "date": "2026-11-22",
+      "league": "Serie A",
+      "match": "US Sassuolo Calcio vs Genoa CFC",
+      "pick": "US Sassuolo Calcio Win",
+      "odds": 2.04,
+      "actual_score": "0-2",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "560646",
+      "date": "2026-11-22",
+      "league": "Premier League",
+      "match": "Hull City AFC vs Brighton & Hove Albion FC",
+      "pick": "Hull City AFC Win",
+      "odds": 2.04,
+      "actual_score": "2-0",
+      "status": "WON",
+      "profit_units": 1.04
+    },
+    {
+      "id": "559625",
+      "date": "2026-11-22",
+      "league": "Ligue 1",
+      "match": "Paris FC vs Angers SCO",
+      "pick": "Paris FC Win",
+      "odds": 2.04,
+      "actual_score": "4-0",
+      "status": "WON",
+      "profit_units": 1.04
+    },
+    {
+      "id": "564749",
+      "date": "2026-11-22",
+      "league": "Primera Division",
+      "match": "FC Barcelona vs Villarreal CF",
+      "pick": "FC Barcelona Win",
+      "odds": 1.64,
+      "actual_score": "3-2",
+      "status": "WON",
+      "profit_units": 0.64
+    },
+    {
+      "id": "558521",
+      "date": "2026-11-22",
+      "league": "Serie A",
+      "match": "Juventus FC vs Venezia FC",
+      "pick": "Juventus FC Win",
+      "odds": 1.78,
+      "actual_score": "4-0",
+      "status": "WON",
+      "profit_units": 0.78
+    },
     {
       "id": "564754",
       "date": "2026-11-21",
