@@ -1,12 +1,111 @@
 {
   "stats": {
-    "total_picks": 72,
-    "wins": 41,
-    "losses": 31,
-    "win_rate": 56.9,
-    "roi_units": 5.53
+    "total_picks": 81,
+    "wins": 46,
+    "losses": 35,
+    "win_rate": 56.8,
+    "roi_units": 6.47
   },
   "graded_matches": [
+    {
+      "id": "575403",
+      "date": "2026-11-24",
+      "league": "UEFA Champions League",
+      "match": "Como 1907 vs PAE AEK",
+      "pick": "Como 1907 Win",
+      "odds": 2.04,
+      "actual_score": "1-0",
+      "status": "WON",
+      "profit_units": 1.04
+    },
+    {
+      "id": "575397",
+      "date": "2026-11-24",
+      "league": "UEFA Champions League",
+      "match": "Real Madrid CF vs PSV",
+      "pick": "Real Madrid CF Win",
+      "odds": 1.64,
+      "actual_score": "5-1",
+      "status": "WON",
+      "profit_units": 0.64
+    },
+    {
+      "id": "575401",
+      "date": "2026-11-24",
+      "league": "UEFA Champions League",
+      "match": "\u0160K Slovan Bratislava vs Real Betis Balompi\u00e9",
+      "pick": "\u0160K Slovan Bratislava Win",
+      "odds": 2.04,
+      "actual_score": "0-2",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "575399",
+      "date": "2026-11-24",
+      "league": "UEFA Champions League",
+      "match": "Arsenal FC vs Borussia Dortmund",
+      "pick": "Arsenal FC Win",
+      "odds": 1.69,
+      "actual_score": "1-1",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "575398",
+      "date": "2026-11-24",
+      "league": "UEFA Champions League",
+      "match": "Manchester City FC vs SSC Napoli",
+      "pick": "Manchester City FC Win",
+      "odds": 1.64,
+      "actual_score": "2-2",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "575402",
+      "date": "2026-11-24",
+      "league": "UEFA Champions League",
+      "match": "RB Leipzig vs Racing Club de Lens",
+      "pick": "RB Leipzig Win",
+      "odds": 1.78,
+      "actual_score": "3-1",
+      "status": "WON",
+      "profit_units": 0.78
+    },
+    {
+      "id": "575400",
+      "date": "2026-11-24",
+      "league": "UEFA Champions League",
+      "match": "Feyenoord Rotterdam vs FC Porto",
+      "pick": "Feyenoord Rotterdam Win",
+      "odds": 2.04,
+      "actual_score": "0-1",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "575395",
+      "date": "2026-11-24",
+      "league": "UEFA Champions League",
+      "match": "Galatasaray SK vs Aston Villa FC",
+      "pick": "Galatasaray SK Win",
+      "odds": 2.44,
+      "actual_score": "1-0",
+      "status": "WON",
+      "profit_units": 1.44
+    },
+    {
+      "id": "575396",
+      "date": "2026-11-24",
+      "league": "UEFA Champions League",
+      "match": "FK Bod\u00f8/Glimt vs LASK Linz",
+      "pick": "FK Bod\u00f8/Glimt Win",
+      "odds": 2.04,
+      "actual_score": "1-0",
+      "status": "WON",
+      "profit_units": 1.04
+    },
     {
       "id": "564757",
       "date": "2026-11-23",

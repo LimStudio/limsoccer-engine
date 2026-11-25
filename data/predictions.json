@@ -1,288 +1,8 @@
 {
-  "updated_at": "2026-11-24T14:22:45.397011Z",
-  "today_date": "2026-11-24",
+  "updated_at": "2026-11-25T13:41:02.329030Z",
+  "today_date": "2026-11-25",
   "total_matches": 40,
   "matches": [
-    {
-      "id": 575396,
-      "home": "FK Bod\u00f8/Glimt",
-      "away": "LASK Linz",
-      "league": "UEFA Champions League",
-      "date": "2026-11-24",
-      "kickoff_utc": "2026-11-24T17:45:00Z",
-      "is_today": true,
-      "stats": {
-        "home_win_prob": 47.1,
-        "draw_prob": 25.4,
-        "away_win_prob": 27.5,
-        "over_25_prob": 50.0,
-        "btts_prob": 52.7,
-        "projected_score": "1-1",
-        "xg_home": 1.55,
-        "xg_away": 1.12
-      },
-      "consensus": {
-        "pick": "FK Bod\u00f8/Glimt Win",
-        "confidence": 47.1,
-        "risk_tier": "Balanced",
-        "fair_odds": 2.12,
-        "market_odds": 2.04,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving FK Bod\u00f8/Glimt Win a 47.1% probability edge."
-      }
-    },
-    {
-      "id": 575395,
-      "home": "Galatasaray SK",
-      "away": "Aston Villa FC",
-      "league": "UEFA Champions League",
-      "date": "2026-11-24",
-      "kickoff_utc": "2026-11-24T17:45:00Z",
-      "is_today": true,
-      "stats": {
-        "home_win_prob": 39.3,
-        "draw_prob": 26.1,
-        "away_win_prob": 34.5,
-        "over_25_prob": 49.7,
-        "btts_prob": 53.7,
-        "projected_score": "1-1",
-        "xg_home": 1.38,
-        "xg_away": 1.28
-      },
-      "consensus": {
-        "pick": "Galatasaray SK Win",
-        "confidence": 39.3,
-        "risk_tier": "High-Risk",
-        "fair_odds": 2.54,
-        "market_odds": 2.44,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.38 vs 1.28 goals, giving Galatasaray SK Win a 39.3% probability edge."
-      }
-    },
-    {
-      "id": 575400,
-      "home": "Feyenoord Rotterdam",
-      "away": "FC Porto",
-      "league": "UEFA Champions League",
-      "date": "2026-11-24",
-      "kickoff_utc": "2026-11-24T20:00:00Z",
-      "is_today": true,
-      "stats": {
-        "home_win_prob": 47.1,
-        "draw_prob": 25.4,
-        "away_win_prob": 27.5,
-        "over_25_prob": 50.0,
-        "btts_prob": 52.7,
-        "projected_score": "1-1",
-        "xg_home": 1.55,
-        "xg_away": 1.12
-      },
-      "consensus": {
-        "pick": "Feyenoord Rotterdam Win",
-        "confidence": 47.1,
-        "risk_tier": "Balanced",
-        "fair_odds": 2.12,
-        "market_odds": 2.04,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Feyenoord Rotterdam Win a 47.1% probability edge."
-      }
-    },
-    {
-      "id": 575402,
-      "home": "RB Leipzig",
-      "away": "Racing Club de Lens",
-      "league": "UEFA Champions League",
-      "date": "2026-11-24",
-      "kickoff_utc": "2026-11-24T20:00:00Z",
-      "is_today": true,
-      "stats": {
-        "home_win_prob": 54.2,
-        "draw_prob": 23.8,
-        "away_win_prob": 22.0,
-        "over_25_prob": 52.1,
-        "btts_prob": 52.0,
-        "projected_score": "1-1",
-        "xg_home": 1.75,
-        "xg_away": 1.01
-      },
-      "consensus": {
-        "pick": "RB Leipzig Win",
-        "confidence": 54.2,
-        "risk_tier": "Balanced",
-        "fair_odds": 1.85,
-        "market_odds": 1.78,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.75 vs 1.01 goals, giving RB Leipzig Win a 54.2% probability edge."
-      }
-    },
-    {
-      "id": 575398,
-      "home": "Manchester City FC",
-      "away": "SSC Napoli",
-      "league": "UEFA Champions League",
-      "date": "2026-11-24",
-      "kickoff_utc": "2026-11-24T20:00:00Z",
-      "is_today": true,
-      "stats": {
-        "home_win_prob": 64.5,
-        "draw_prob": 20.6,
-        "away_win_prob": 14.9,
-        "over_25_prob": 55.2,
-        "btts_prob": 48.8,
-        "projected_score": "2-0",
-        "xg_home": 2.04,
-        "xg_away": 0.85
-      },
-      "consensus": {
-        "pick": "Manchester City FC Win",
-        "confidence": 64.5,
-        "risk_tier": "Safe",
-        "fair_odds": 1.55,
-        "market_odds": 1.64,
-        "is_value_bet": true,
-        "ai_preview": "Poisson xG models project 2.04 vs 0.85 goals, giving Manchester City FC Win a 64.5% probability edge."
-      }
-    },
-    {
-      "id": 575399,
-      "home": "Arsenal FC",
-      "away": "Borussia Dortmund",
-      "league": "UEFA Champions League",
-      "date": "2026-11-24",
-      "kickoff_utc": "2026-11-24T20:00:00Z",
-      "is_today": true,
-      "stats": {
-        "home_win_prob": 56.9,
-        "draw_prob": 23.1,
-        "away_win_prob": 20.0,
-        "over_25_prob": 52.7,
-        "btts_prob": 51.2,
-        "projected_score": "1-0",
-        "xg_home": 1.82,
-        "xg_away": 0.97
-      },
-      "consensus": {
-        "pick": "Arsenal FC Win",
-        "confidence": 56.9,
-        "risk_tier": "Balanced",
-        "fair_odds": 1.76,
-        "market_odds": 1.69,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.82 vs 0.97 goals, giving Arsenal FC Win a 56.9% probability edge."
-      }
-    },
-    {
-      "id": 575401,
-      "home": "\u0160K Slovan Bratislava",
-      "away": "Real Betis Balompi\u00e9",
-      "league": "UEFA Champions League",
-      "date": "2026-11-24",
-      "kickoff_utc": "2026-11-24T20:00:00Z",
-      "is_today": true,
-      "stats": {
-        "home_win_prob": 47.1,
-        "draw_prob": 25.4,
-        "away_win_prob": 27.5,
-        "over_25_prob": 50.0,
-        "btts_prob": 52.7,
-        "projected_score": "1-1",
-        "xg_home": 1.55,
-        "xg_away": 1.12
-      },
-      "consensus": {
-        "pick": "\u0160K Slovan Bratislava Win",
-        "confidence": 47.1,
-        "risk_tier": "Balanced",
-        "fair_odds": 2.12,
-        "market_odds": 2.04,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving \u0160K Slovan Bratislava Win a 47.1% probability edge."
-      }
-    },
-    {
-      "id": 575397,
-      "home": "Real Madrid CF",
-      "away": "PSV",
-      "league": "UEFA Champions League",
-      "date": "2026-11-24",
-      "kickoff_utc": "2026-11-24T20:00:00Z",
-      "is_today": true,
-      "stats": {
-        "home_win_prob": 64.5,
-        "draw_prob": 20.6,
-        "away_win_prob": 14.9,
-        "over_25_prob": 55.2,
-        "btts_prob": 48.8,
-        "projected_score": "2-0",
-        "xg_home": 2.04,
-        "xg_away": 0.85
-      },
-      "consensus": {
-        "pick": "Real Madrid CF Win",
-        "confidence": 64.5,
-        "risk_tier": "Safe",
-        "fair_odds": 1.55,
-        "market_odds": 1.64,
-        "is_value_bet": true,
-        "ai_preview": "Poisson xG models project 2.04 vs 0.85 goals, giving Real Madrid CF Win a 64.5% probability edge."
-      }
-    },
-    {
-      "id": 575403,
-      "home": "Como 1907",
-      "away": "PAE AEK",
-      "league": "UEFA Champions League",
-      "date": "2026-11-24",
-      "kickoff_utc": "2026-11-24T20:00:00Z",
-      "is_today": true,
-      "stats": {
-        "home_win_prob": 47.1,
-        "draw_prob": 25.4,
-        "away_win_prob": 27.5,
-        "over_25_prob": 50.0,
-        "btts_prob": 52.7,
-        "projected_score": "1-1",
-        "xg_home": 1.55,
-        "xg_away": 1.12
-      },
-      "consensus": {
-        "pick": "Como 1907 Win",
-        "confidence": 47.1,
-        "risk_tier": "Balanced",
-        "fair_odds": 2.12,
-        "market_odds": 2.04,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Como 1907 Win a 47.1% probability edge."
-      }
-    },
-    {
-      "id": 575404,
-      "home": "Sabah FK",
-      "away": "FC Barcelona",
-      "league": "UEFA Champions League",
-      "date": "2026-11-25",
-      "kickoff_utc": "2026-11-25T17:45:00Z",
-      "is_today": false,
-      "stats": {
-        "home_win_prob": 29.5,
-        "draw_prob": 25.7,
-        "away_win_prob": 44.8,
-        "over_25_prob": 49.8,
-        "btts_prob": 53.1,
-        "projected_score": "1-1",
-        "xg_home": 1.17,
-        "xg_away": 1.5
-      },
-      "consensus": {
-        "pick": "FC Barcelona Win",
-        "confidence": 44.8,
-        "risk_tier": "High-Risk",
-        "fair_odds": 2.23,
-        "market_odds": 2.14,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.17 vs 1.5 goals, giving FC Barcelona Win a 44.8% probability edge."
-      }
-    },
     {
       "id": 575405,
       "home": "SK Slavia Praha",
@@ -290,7 +10,7 @@
       "league": "UEFA Champions League",
       "date": "2026-11-25",
       "kickoff_utc": "2026-11-25T17:45:00Z",
-      "is_today": false,
+      "is_today": true,
       "stats": {
         "home_win_prob": 47.1,
         "draw_prob": 25.4,
@@ -312,13 +32,13 @@
       }
     },
     {
-      "id": 575410,
-      "home": "Lille OSC",
-      "away": "FC Bayern M\u00fcnchen",
+      "id": 575404,
+      "home": "Sabah FK",
+      "away": "FC Barcelona",
       "league": "UEFA Champions League",
       "date": "2026-11-25",
-      "kickoff_utc": "2026-11-25T20:00:00Z",
-      "is_today": false,
+      "kickoff_utc": "2026-11-25T17:45:00Z",
+      "is_today": true,
       "stats": {
         "home_win_prob": 29.5,
         "draw_prob": 25.7,
@@ -330,97 +50,13 @@
         "xg_away": 1.5
       },
       "consensus": {
-        "pick": "FC Bayern M\u00fcnchen Win",
+        "pick": "FC Barcelona Win",
         "confidence": 44.8,
         "risk_tier": "High-Risk",
         "fair_odds": 2.23,
         "market_odds": 2.14,
         "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.17 vs 1.5 goals, giving FC Bayern M\u00fcnchen Win a 44.8% probability edge."
-      }
-    },
-    {
-      "id": 575406,
-      "home": "FC Internazionale Milano",
-      "away": "VfB Stuttgart",
-      "league": "UEFA Champions League",
-      "date": "2026-11-25",
-      "kickoff_utc": "2026-11-25T20:00:00Z",
-      "is_today": false,
-      "stats": {
-        "home_win_prob": 64.5,
-        "draw_prob": 20.6,
-        "away_win_prob": 14.9,
-        "over_25_prob": 55.2,
-        "btts_prob": 48.8,
-        "projected_score": "2-0",
-        "xg_home": 2.04,
-        "xg_away": 0.85
-      },
-      "consensus": {
-        "pick": "FC Internazionale Milano Win",
-        "confidence": 64.5,
-        "risk_tier": "Safe",
-        "fair_odds": 1.55,
-        "market_odds": 1.64,
-        "is_value_bet": true,
-        "ai_preview": "Poisson xG models project 2.04 vs 0.85 goals, giving FC Internazionale Milano Win a 64.5% probability edge."
-      }
-    },
-    {
-      "id": 575412,
-      "home": "FK Shakhtar Donetsk",
-      "away": "Fenerbah\u00e7e SK",
-      "league": "UEFA Champions League",
-      "date": "2026-11-25",
-      "kickoff_utc": "2026-11-25T20:00:00Z",
-      "is_today": false,
-      "stats": {
-        "home_win_prob": 47.1,
-        "draw_prob": 25.4,
-        "away_win_prob": 27.5,
-        "over_25_prob": 50.0,
-        "btts_prob": 52.7,
-        "projected_score": "1-1",
-        "xg_home": 1.55,
-        "xg_away": 1.12
-      },
-      "consensus": {
-        "pick": "FK Shakhtar Donetsk Win",
-        "confidence": 47.1,
-        "risk_tier": "Balanced",
-        "fair_odds": 2.12,
-        "market_odds": 2.04,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving FK Shakhtar Donetsk Win a 47.1% probability edge."
-      }
-    },
-    {
-      "id": 575408,
-      "home": "Paris Saint-Germain FC",
-      "away": "AS Roma",
-      "league": "UEFA Champions League",
-      "date": "2026-11-25",
-      "kickoff_utc": "2026-11-25T20:00:00Z",
-      "is_today": false,
-      "stats": {
-        "home_win_prob": 64.5,
-        "draw_prob": 20.6,
-        "away_win_prob": 14.9,
-        "over_25_prob": 55.2,
-        "btts_prob": 48.8,
-        "projected_score": "2-0",
-        "xg_home": 2.04,
-        "xg_away": 0.85
-      },
-      "consensus": {
-        "pick": "Paris Saint-Germain FC Win",
-        "confidence": 64.5,
-        "risk_tier": "Safe",
-        "fair_odds": 1.55,
-        "market_odds": 1.64,
-        "is_value_bet": true,
-        "ai_preview": "Poisson xG models project 2.04 vs 0.85 goals, giving Paris Saint-Germain FC Win a 64.5% probability edge."
+        "ai_preview": "Poisson xG models project 1.17 vs 1.5 goals, giving FC Barcelona Win a 44.8% probability edge."
       }
     },
     {
@@ -430,7 +66,7 @@
       "league": "UEFA Champions League",
       "date": "2026-11-25",
       "kickoff_utc": "2026-11-25T20:00:00Z",
-      "is_today": false,
+      "is_today": true,
       "stats": {
         "home_win_prob": 29.5,
         "draw_prob": 25.7,
@@ -458,7 +94,7 @@
       "league": "UEFA Champions League",
       "date": "2026-11-25",
       "kickoff_utc": "2026-11-25T20:00:00Z",
-      "is_today": false,
+      "is_today": true,
       "stats": {
         "home_win_prob": 47.1,
         "draw_prob": 25.4,
@@ -486,7 +122,7 @@
       "league": "UEFA Champions League",
       "date": "2026-11-25",
       "kickoff_utc": "2026-11-25T20:00:00Z",
-      "is_today": false,
+      "is_today": true,
       "stats": {
         "home_win_prob": 47.1,
         "draw_prob": 25.4,
@@ -505,6 +141,118 @@
         "market_odds": 2.04,
         "is_value_bet": false,
         "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Club Atl\u00e9tico de Madrid Win a 47.1% probability edge."
+      }
+    },
+    {
+      "id": 575410,
+      "home": "Lille OSC",
+      "away": "FC Bayern M\u00fcnchen",
+      "league": "UEFA Champions League",
+      "date": "2026-11-25",
+      "kickoff_utc": "2026-11-25T20:00:00Z",
+      "is_today": true,
+      "stats": {
+        "home_win_prob": 29.5,
+        "draw_prob": 25.7,
+        "away_win_prob": 44.8,
+        "over_25_prob": 49.8,
+        "btts_prob": 53.1,
+        "projected_score": "1-1",
+        "xg_home": 1.17,
+        "xg_away": 1.5
+      },
+      "consensus": {
+        "pick": "FC Bayern M\u00fcnchen Win",
+        "confidence": 44.8,
+        "risk_tier": "High-Risk",
+        "fair_odds": 2.23,
+        "market_odds": 2.14,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.17 vs 1.5 goals, giving FC Bayern M\u00fcnchen Win a 44.8% probability edge."
+      }
+    },
+    {
+      "id": 575406,
+      "home": "FC Internazionale Milano",
+      "away": "VfB Stuttgart",
+      "league": "UEFA Champions League",
+      "date": "2026-11-25",
+      "kickoff_utc": "2026-11-25T20:00:00Z",
+      "is_today": true,
+      "stats": {
+        "home_win_prob": 64.5,
+        "draw_prob": 20.6,
+        "away_win_prob": 14.9,
+        "over_25_prob": 55.2,
+        "btts_prob": 48.8,
+        "projected_score": "2-0",
+        "xg_home": 2.04,
+        "xg_away": 0.85
+      },
+      "consensus": {
+        "pick": "FC Internazionale Milano Win",
+        "confidence": 64.5,
+        "risk_tier": "Safe",
+        "fair_odds": 1.55,
+        "market_odds": 1.64,
+        "is_value_bet": true,
+        "ai_preview": "Poisson xG models project 2.04 vs 0.85 goals, giving FC Internazionale Milano Win a 64.5% probability edge."
+      }
+    },
+    {
+      "id": 575412,
+      "home": "FK Shakhtar Donetsk",
+      "away": "Fenerbah\u00e7e SK",
+      "league": "UEFA Champions League",
+      "date": "2026-11-25",
+      "kickoff_utc": "2026-11-25T20:00:00Z",
+      "is_today": true,
+      "stats": {
+        "home_win_prob": 47.1,
+        "draw_prob": 25.4,
+        "away_win_prob": 27.5,
+        "over_25_prob": 50.0,
+        "btts_prob": 52.7,
+        "projected_score": "1-1",
+        "xg_home": 1.55,
+        "xg_away": 1.12
+      },
+      "consensus": {
+        "pick": "FK Shakhtar Donetsk Win",
+        "confidence": 47.1,
+        "risk_tier": "Balanced",
+        "fair_odds": 2.12,
+        "market_odds": 2.04,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving FK Shakhtar Donetsk Win a 47.1% probability edge."
+      }
+    },
+    {
+      "id": 575408,
+      "home": "Paris Saint-Germain FC",
+      "away": "AS Roma",
+      "league": "UEFA Champions League",
+      "date": "2026-11-25",
+      "kickoff_utc": "2026-11-25T20:00:00Z",
+      "is_today": true,
+      "stats": {
+        "home_win_prob": 64.5,
+        "draw_prob": 20.6,
+        "away_win_prob": 14.9,
+        "over_25_prob": 55.2,
+        "btts_prob": 48.8,
+        "projected_score": "2-0",
+        "xg_home": 2.04,
+        "xg_away": 0.85
+      },
+      "consensus": {
+        "pick": "Paris Saint-Germain FC Win",
+        "confidence": 64.5,
+        "risk_tier": "Safe",
+        "fair_odds": 1.55,
+        "market_odds": 1.64,
+        "is_value_bet": true,
+        "ai_preview": "Poisson xG models project 2.04 vs 0.85 goals, giving Paris Saint-Germain FC Win a 64.5% probability edge."
       }
     },
     {
@@ -536,34 +284,6 @@
       }
     },
     {
-      "id": 559616,
-      "home": "Stade Brestois 29",
-      "away": "Paris FC",
-      "league": "Ligue 1",
-      "date": "2026-11-27",
-      "kickoff_utc": "2026-11-27T19:45:00Z",
-      "is_today": false,
-      "stats": {
-        "home_win_prob": 47.1,
-        "draw_prob": 25.4,
-        "away_win_prob": 27.5,
-        "over_25_prob": 50.0,
-        "btts_prob": 52.7,
-        "projected_score": "1-1",
-        "xg_home": 1.55,
-        "xg_away": 1.12
-      },
-      "consensus": {
-        "pick": "Stade Brestois 29 Win",
-        "confidence": 47.1,
-        "risk_tier": "Balanced",
-        "fair_odds": 2.12,
-        "market_odds": 2.04,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Stade Brestois 29 Win a 47.1% probability edge."
-      }
-    },
-    {
       "id": 558515,
       "home": "Venezia FC",
       "away": "Bologna FC 1909",
@@ -589,6 +309,34 @@
         "market_odds": 2.04,
         "is_value_bet": false,
         "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Venezia FC Win a 47.1% probability edge."
+      }
+    },
+    {
+      "id": 559616,
+      "home": "Stade Brestois 29",
+      "away": "Paris FC",
+      "league": "Ligue 1",
+      "date": "2026-11-27",
+      "kickoff_utc": "2026-11-27T19:45:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 47.1,
+        "draw_prob": 25.4,
+        "away_win_prob": 27.5,
+        "over_25_prob": 50.0,
+        "btts_prob": 52.7,
+        "projected_score": "1-1",
+        "xg_home": 1.55,
+        "xg_away": 1.12
+      },
+      "consensus": {
+        "pick": "Stade Brestois 29 Win",
+        "confidence": 47.1,
+        "risk_tier": "Balanced",
+        "fair_odds": 2.12,
+        "market_odds": 2.04,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Stade Brestois 29 Win a 47.1% probability edge."
       }
     },
     {
@@ -704,9 +452,9 @@
       }
     },
     {
-      "id": 565867,
-      "home": "1. FSV Mainz 05",
-      "away": "1. FC Union Berlin",
+      "id": 565866,
+      "home": "1. FC K\u00f6ln",
+      "away": "SV 07 Elversberg",
       "league": "Bundesliga",
       "date": "2026-11-28",
       "kickoff_utc": "2026-11-28T14:30:00Z",
@@ -722,13 +470,13 @@
         "xg_away": 1.12
       },
       "consensus": {
-        "pick": "1. FSV Mainz 05 Win",
+        "pick": "1. FC K\u00f6ln Win",
         "confidence": 47.1,
         "risk_tier": "Balanced",
         "fair_odds": 2.12,
         "market_odds": 2.04,
         "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving 1. FSV Mainz 05 Win a 47.1% probability edge."
+        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving 1. FC K\u00f6ln Win a 47.1% probability edge."
       }
     },
     {
@@ -788,9 +536,9 @@
       }
     },
     {
-      "id": 565866,
-      "home": "1. FC K\u00f6ln",
-      "away": "SV 07 Elversberg",
+      "id": 565867,
+      "home": "1. FSV Mainz 05",
+      "away": "1. FC Union Berlin",
       "league": "Bundesliga",
       "date": "2026-11-28",
       "kickoff_utc": "2026-11-28T14:30:00Z",
@@ -806,41 +554,13 @@
         "xg_away": 1.12
       },
       "consensus": {
-        "pick": "1. FC K\u00f6ln Win",
+        "pick": "1. FSV Mainz 05 Win",
         "confidence": 47.1,
         "risk_tier": "Balanced",
         "fair_odds": 2.12,
         "market_odds": 2.04,
         "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving 1. FC K\u00f6ln Win a 47.1% probability edge."
-      }
-    },
-    {
-      "id": 560655,
-      "home": "Manchester United FC",
-      "away": "Brentford FC",
-      "league": "Premier League",
-      "date": "2026-11-28",
-      "kickoff_utc": "2026-11-28T15:00:00Z",
-      "is_today": false,
-      "stats": {
-        "home_win_prob": 47.1,
-        "draw_prob": 25.4,
-        "away_win_prob": 27.5,
-        "over_25_prob": 50.0,
-        "btts_prob": 52.7,
-        "projected_score": "1-1",
-        "xg_home": 1.55,
-        "xg_away": 1.12
-      },
-      "consensus": {
-        "pick": "Manchester United FC Win",
-        "confidence": 47.1,
-        "risk_tier": "Balanced",
-        "fair_odds": 2.12,
-        "market_odds": 2.04,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Manchester United FC Win a 47.1% probability edge."
+        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving 1. FSV Mainz 05 Win a 47.1% probability edge."
       }
     },
     {
@@ -869,6 +589,34 @@
         "market_odds": 2.04,
         "is_value_bet": false,
         "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Leeds United FC Win a 47.1% probability edge."
+      }
+    },
+    {
+      "id": 560655,
+      "home": "Manchester United FC",
+      "away": "Brentford FC",
+      "league": "Premier League",
+      "date": "2026-11-28",
+      "kickoff_utc": "2026-11-28T15:00:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 47.1,
+        "draw_prob": 25.4,
+        "away_win_prob": 27.5,
+        "over_25_prob": 50.0,
+        "btts_prob": 52.7,
+        "projected_score": "1-1",
+        "xg_home": 1.55,
+        "xg_away": 1.12
+      },
+      "consensus": {
+        "pick": "Manchester United FC Win",
+        "confidence": 47.1,
+        "risk_tier": "Balanced",
+        "fair_odds": 2.12,
+        "market_odds": 2.04,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Manchester United FC Win a 47.1% probability edge."
       }
     },
     {
@@ -956,6 +704,34 @@
       }
     },
     {
+      "id": 565870,
+      "home": "VfB Stuttgart",
+      "away": "Eintracht Frankfurt",
+      "league": "Bundesliga",
+      "date": "2026-11-28",
+      "kickoff_utc": "2026-11-28T17:30:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 47.1,
+        "draw_prob": 25.4,
+        "away_win_prob": 27.5,
+        "over_25_prob": 50.0,
+        "btts_prob": 52.7,
+        "projected_score": "1-1",
+        "xg_home": 1.55,
+        "xg_away": 1.12
+      },
+      "consensus": {
+        "pick": "VfB Stuttgart Win",
+        "confidence": 47.1,
+        "risk_tier": "Balanced",
+        "fair_odds": 2.12,
+        "market_odds": 2.04,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving VfB Stuttgart Win a 47.1% probability edge."
+      }
+    },
+    {
       "id": 564759,
       "home": "Elche CF",
       "away": "Club Atl\u00e9tico de Madrid",
@@ -1012,38 +788,10 @@
       }
     },
     {
-      "id": 565870,
-      "home": "VfB Stuttgart",
-      "away": "Eintracht Frankfurt",
-      "league": "Bundesliga",
-      "date": "2026-11-28",
-      "kickoff_utc": "2026-11-28T17:30:00Z",
-      "is_today": false,
-      "stats": {
-        "home_win_prob": 47.1,
-        "draw_prob": 25.4,
-        "away_win_prob": 27.5,
-        "over_25_prob": 50.0,
-        "btts_prob": 52.7,
-        "projected_score": "1-1",
-        "xg_home": 1.55,
-        "xg_away": 1.12
-      },
-      "consensus": {
-        "pick": "VfB Stuttgart Win",
-        "confidence": 47.1,
-        "risk_tier": "Balanced",
-        "fair_odds": 2.12,
-        "market_odds": 2.04,
-        "is_value_bet": false,
-        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving VfB Stuttgart Win a 47.1% probability edge."
-      }
-    },
-    {
-      "id": 558518,
-      "home": "FC Internazionale Milano",
-      "away": "Genoa CFC",
-      "league": "Serie A",
+      "id": 559614,
+      "home": "Paris Saint-Germain FC",
+      "away": "FC Lorient",
+      "league": "Ligue 1",
       "date": "2026-11-28",
       "kickoff_utc": "2026-11-28T19:45:00Z",
       "is_today": false,
@@ -1058,13 +806,41 @@
         "xg_away": 0.85
       },
       "consensus": {
-        "pick": "FC Internazionale Milano Win",
+        "pick": "Paris Saint-Germain FC Win",
         "confidence": 64.5,
         "risk_tier": "Safe",
         "fair_odds": 1.55,
         "market_odds": 1.64,
         "is_value_bet": true,
-        "ai_preview": "Poisson xG models project 2.04 vs 0.85 goals, giving FC Internazionale Milano Win a 64.5% probability edge."
+        "ai_preview": "Poisson xG models project 2.04 vs 0.85 goals, giving Paris Saint-Germain FC Win a 64.5% probability edge."
+      }
+    },
+    {
+      "id": 559620,
+      "home": "OGC Nice",
+      "away": "ES Troyes AC",
+      "league": "Ligue 1",
+      "date": "2026-11-28",
+      "kickoff_utc": "2026-11-28T19:45:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 47.1,
+        "draw_prob": 25.4,
+        "away_win_prob": 27.5,
+        "over_25_prob": 50.0,
+        "btts_prob": 52.7,
+        "projected_score": "1-1",
+        "xg_home": 1.55,
+        "xg_away": 1.12
+      },
+      "consensus": {
+        "pick": "OGC Nice Win",
+        "confidence": 47.1,
+        "risk_tier": "Balanced",
+        "fair_odds": 2.12,
+        "market_odds": 2.04,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving OGC Nice Win a 47.1% probability edge."
       }
     },
     {
@@ -1121,6 +897,230 @@
         "market_odds": 2.04,
         "is_value_bet": false,
         "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Le Havre AC Win a 47.1% probability edge."
+      }
+    },
+    {
+      "id": 558518,
+      "home": "FC Internazionale Milano",
+      "away": "Genoa CFC",
+      "league": "Serie A",
+      "date": "2026-11-28",
+      "kickoff_utc": "2026-11-28T19:45:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 64.5,
+        "draw_prob": 20.6,
+        "away_win_prob": 14.9,
+        "over_25_prob": 55.2,
+        "btts_prob": 48.8,
+        "projected_score": "2-0",
+        "xg_home": 2.04,
+        "xg_away": 0.85
+      },
+      "consensus": {
+        "pick": "FC Internazionale Milano Win",
+        "confidence": 64.5,
+        "risk_tier": "Safe",
+        "fair_odds": 1.55,
+        "market_odds": 1.64,
+        "is_value_bet": true,
+        "ai_preview": "Poisson xG models project 2.04 vs 0.85 goals, giving FC Internazionale Milano Win a 64.5% probability edge."
+      }
+    },
+    {
+      "id": 564762,
+      "home": "Real Madrid CF",
+      "away": "Deportivo Alav\u00e9s",
+      "league": "Primera Division",
+      "date": "2026-11-28",
+      "kickoff_utc": "2026-11-28T20:00:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 64.5,
+        "draw_prob": 20.6,
+        "away_win_prob": 14.9,
+        "over_25_prob": 55.2,
+        "btts_prob": 48.8,
+        "projected_score": "2-0",
+        "xg_home": 2.04,
+        "xg_away": 0.85
+      },
+      "consensus": {
+        "pick": "Real Madrid CF Win",
+        "confidence": 64.5,
+        "risk_tier": "Safe",
+        "fair_odds": 1.55,
+        "market_odds": 1.64,
+        "is_value_bet": true,
+        "ai_preview": "Poisson xG models project 2.04 vs 0.85 goals, giving Real Madrid CF Win a 64.5% probability edge."
+      }
+    },
+    {
+      "id": 558517,
+      "home": "Udinese Calcio",
+      "away": "ACF Fiorentina",
+      "league": "Serie A",
+      "date": "2026-11-29",
+      "kickoff_utc": "2026-11-29T11:30:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 47.1,
+        "draw_prob": 25.4,
+        "away_win_prob": 27.5,
+        "over_25_prob": 50.0,
+        "btts_prob": 52.7,
+        "projected_score": "1-1",
+        "xg_home": 1.55,
+        "xg_away": 1.12
+      },
+      "consensus": {
+        "pick": "Udinese Calcio Win",
+        "confidence": 47.1,
+        "risk_tier": "Balanced",
+        "fair_odds": 2.12,
+        "market_odds": 2.04,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Udinese Calcio Win a 47.1% probability edge."
+      }
+    },
+    {
+      "id": 560656,
+      "home": "Everton FC",
+      "away": "Liverpool FC",
+      "league": "Premier League",
+      "date": "2026-11-29",
+      "kickoff_utc": "2026-11-29T12:00:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 29.5,
+        "draw_prob": 25.7,
+        "away_win_prob": 44.8,
+        "over_25_prob": 49.8,
+        "btts_prob": 53.1,
+        "projected_score": "1-1",
+        "xg_home": 1.17,
+        "xg_away": 1.5
+      },
+      "consensus": {
+        "pick": "Liverpool FC Win",
+        "confidence": 44.8,
+        "risk_tier": "High-Risk",
+        "fair_odds": 2.23,
+        "market_odds": 2.14,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.17 vs 1.5 goals, giving Liverpool FC Win a 44.8% probability edge."
+      }
+    },
+    {
+      "id": 564761,
+      "home": "Valencia CF",
+      "away": "CA Osasuna",
+      "league": "Primera Division",
+      "date": "2026-11-29",
+      "kickoff_utc": "2026-11-29T13:00:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 47.1,
+        "draw_prob": 25.4,
+        "away_win_prob": 27.5,
+        "over_25_prob": 50.0,
+        "btts_prob": 52.7,
+        "projected_score": "1-1",
+        "xg_home": 1.55,
+        "xg_away": 1.12
+      },
+      "consensus": {
+        "pick": "Valencia CF Win",
+        "confidence": 47.1,
+        "risk_tier": "Balanced",
+        "fair_odds": 2.12,
+        "market_odds": 2.04,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving Valencia CF Win a 47.1% probability edge."
+      }
+    },
+    {
+      "id": 558509,
+      "home": "US Sassuolo Calcio",
+      "away": "SSC Napoli",
+      "league": "Serie A",
+      "date": "2026-11-29",
+      "kickoff_utc": "2026-11-29T14:00:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 47.1,
+        "draw_prob": 25.4,
+        "away_win_prob": 27.5,
+        "over_25_prob": 50.0,
+        "btts_prob": 52.7,
+        "projected_score": "1-1",
+        "xg_home": 1.55,
+        "xg_away": 1.12
+      },
+      "consensus": {
+        "pick": "US Sassuolo Calcio Win",
+        "confidence": 47.1,
+        "risk_tier": "Balanced",
+        "fair_odds": 2.12,
+        "market_odds": 2.04,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving US Sassuolo Calcio Win a 47.1% probability edge."
+      }
+    },
+    {
+      "id": 559619,
+      "home": "AJ Auxerre",
+      "away": "Olympique de Marseille",
+      "league": "Ligue 1",
+      "date": "2026-11-29",
+      "kickoff_utc": "2026-11-29T14:00:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 47.1,
+        "draw_prob": 25.4,
+        "away_win_prob": 27.5,
+        "over_25_prob": 50.0,
+        "btts_prob": 52.7,
+        "projected_score": "1-1",
+        "xg_home": 1.55,
+        "xg_away": 1.12
+      },
+      "consensus": {
+        "pick": "AJ Auxerre Win",
+        "confidence": 47.1,
+        "risk_tier": "Balanced",
+        "fair_odds": 2.12,
+        "market_odds": 2.04,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.55 vs 1.12 goals, giving AJ Auxerre Win a 47.1% probability edge."
+      }
+    },
+    {
+      "id": 560660,
+      "home": "Sunderland AFC",
+      "away": "Tottenham Hotspur FC",
+      "league": "Premier League",
+      "date": "2026-11-29",
+      "kickoff_utc": "2026-11-29T14:05:00Z",
+      "is_today": false,
+      "stats": {
+        "home_win_prob": 39.3,
+        "draw_prob": 26.1,
+        "away_win_prob": 34.5,
+        "over_25_prob": 49.7,
+        "btts_prob": 53.7,
+        "projected_score": "1-1",
+        "xg_home": 1.38,
+        "xg_away": 1.28
+      },
+      "consensus": {
+        "pick": "Sunderland AFC Win",
+        "confidence": 39.3,
+        "risk_tier": "High-Risk",
+        "fair_odds": 2.54,
+        "market_odds": 2.44,
+        "is_value_bet": false,
+        "ai_preview": "Poisson xG models project 1.38 vs 1.28 goals, giving Sunderland AFC Win a 39.3% probability edge."
       }
     }
   ]
