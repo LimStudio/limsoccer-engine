@@ -1,12 +1,111 @@
 {
   "stats": {
-    "total_picks": 81,
-    "wins": 46,
-    "losses": 35,
-    "win_rate": 56.8,
-    "roi_units": 6.47
+    "total_picks": 90,
+    "wins": 50,
+    "losses": 40,
+    "win_rate": 55.6,
+    "roi_units": 5.43
   },
   "graded_matches": [
+    {
+      "id": "575408",
+      "date": "2026-11-25",
+      "league": "UEFA Champions League",
+      "match": "Paris Saint-Germain FC vs AS Roma",
+      "pick": "Paris Saint-Germain FC Win",
+      "odds": 1.64,
+      "actual_score": "2-2",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "575412",
+      "date": "2026-11-25",
+      "league": "UEFA Champions League",
+      "match": "FK Shakhtar Donetsk vs Fenerbah\u00e7e SK",
+      "pick": "FK Shakhtar Donetsk Win",
+      "odds": 2.04,
+      "actual_score": "0-1",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "575406",
+      "date": "2026-11-25",
+      "league": "UEFA Champions League",
+      "match": "FC Internazionale Milano vs VfB Stuttgart",
+      "pick": "FC Internazionale Milano Win",
+      "odds": 1.64,
+      "actual_score": "2-0",
+      "status": "WON",
+      "profit_units": 0.64
+    },
+    {
+      "id": "575410",
+      "date": "2026-11-25",
+      "league": "UEFA Champions League",
+      "match": "Lille OSC vs FC Bayern M\u00fcnchen",
+      "pick": "FC Bayern M\u00fcnchen Win",
+      "odds": 2.14,
+      "actual_score": "2-1",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "575407",
+      "date": "2026-11-25",
+      "league": "UEFA Champions League",
+      "match": "Club Atl\u00e9tico de Madrid vs Viking FK",
+      "pick": "Club Atl\u00e9tico de Madrid Win",
+      "odds": 2.04,
+      "actual_score": "2-0",
+      "status": "WON",
+      "profit_units": 1.04
+    },
+    {
+      "id": "575411",
+      "date": "2026-11-25",
+      "league": "UEFA Champions League",
+      "match": "Sporting Clube de Portugal vs Manchester United FC",
+      "pick": "Sporting Clube de Portugal Win",
+      "odds": 2.04,
+      "actual_score": "2-2",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "575409",
+      "date": "2026-11-25",
+      "league": "UEFA Champions League",
+      "match": "Club Brugge KV vs Liverpool FC",
+      "pick": "Liverpool FC Win",
+      "odds": 2.14,
+      "actual_score": "0-3",
+      "status": "WON",
+      "profit_units": 1.14
+    },
+    {
+      "id": "575404",
+      "date": "2026-11-25",
+      "league": "UEFA Champions League",
+      "match": "Sabah FK vs FC Barcelona",
+      "pick": "FC Barcelona Win",
+      "odds": 2.14,
+      "actual_score": "1-4",
+      "status": "WON",
+      "profit_units": 1.14
+    },
+    {
+      "id": "575405",
+      "date": "2026-11-25",
+      "league": "UEFA Champions League",
+      "match": "SK Slavia Praha vs Villarreal CF",
+      "pick": "SK Slavia Praha Win",
+      "odds": 2.04,
+      "actual_score": "0-1",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
     {
       "id": "575403",
       "date": "2026-11-24",
