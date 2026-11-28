@@ -1,12 +1,67 @@
 {
   "stats": {
-    "total_picks": 90,
-    "wins": 50,
-    "losses": 40,
-    "win_rate": 55.6,
-    "roi_units": 5.43
+    "total_picks": 95,
+    "wins": 52,
+    "losses": 43,
+    "win_rate": 54.7,
+    "roi_units": 4.91
   },
   "graded_matches": [
+    {
+      "id": "564765",
+      "date": "2026-11-27",
+      "league": "Primera Division",
+      "match": "Levante UD vs Real Racing Club de Santander",
+      "pick": "Levante UD Win",
+      "odds": 2.04,
+      "actual_score": "1-3",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "560658",
+      "date": "2026-11-27",
+      "league": "Premier League",
+      "match": "Nottingham Forest FC vs Chelsea FC",
+      "pick": "Nottingham Forest FC Win",
+      "odds": 2.44,
+      "actual_score": "3-2",
+      "status": "WON",
+      "profit_units": 1.44
+    },
+    {
+      "id": "558515",
+      "date": "2026-11-27",
+      "league": "Serie A",
+      "match": "Venezia FC vs Bologna FC 1909",
+      "pick": "Venezia FC Win",
+      "odds": 2.04,
+      "actual_score": "0-0",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
+    {
+      "id": "559616",
+      "date": "2026-11-27",
+      "league": "Ligue 1",
+      "match": "Stade Brestois 29 vs Paris FC",
+      "pick": "Stade Brestois 29 Win",
+      "odds": 2.04,
+      "actual_score": "1-0",
+      "status": "WON",
+      "profit_units": 1.04
+    },
+    {
+      "id": "565869",
+      "date": "2026-11-27",
+      "league": "Bundesliga",
+      "match": "SV Werder Bremen vs Borussia M\u00f6nchengladbach",
+      "pick": "SV Werder Bremen Win",
+      "odds": 2.04,
+      "actual_score": "3-3",
+      "status": "LOST",
+      "profit_units": -1.0
+    },
     {
       "id": "575408",
       "date": "2026-11-25",
